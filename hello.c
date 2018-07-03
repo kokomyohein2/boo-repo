@@ -1,4 +1,10 @@
 #include<stdio.h>
 main(){
 printf("hello\n");
+printf("koko1\n");
+printf("koko2\n");
+printf("koko3\n");
+printf("koko4\n");
+printf("koko5\n");
+printf("koko6\n");
 }
